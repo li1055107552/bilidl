@@ -1,0 +1,25 @@
+{
+  "name": "bilidl",
+  "version": "0.0.1",
+  "description": "B站下载工具",
+  "main": "lib/bilidl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "bilidl": "./bin/bilidl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/li1055107552/bilidl.git"
+  },
+  "author": "细粒丁",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/li1055107552/bilidl/issues"
+  },
+  "homepage": "https://github.com/li1055107552/bilidl#readme",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}
